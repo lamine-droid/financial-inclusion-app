@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug  4 19:59:22 2025
+
+@author: THINKPAD
+"""
+
+pandas
+scikit-learn
+joblib
+streamlit
